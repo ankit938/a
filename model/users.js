@@ -14,3 +14,8 @@ userSchema.statics.createUser = function (userData) {
 
 const userModel = mongoose.model('User', userSchema);
 module.exports = userModel;
+
+
+
+
+// hey this is ankit  mishra from Kiet college 
