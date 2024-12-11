@@ -1,0 +1,17 @@
+# Ignore node_modules folder
+node_modules/
+
+# Include package.json and package-lock.json
+!package.json
+!package-lock.json
+
+# Optional: Ignore logs
+logs
+*.log
+
+# Optional: Ignore environment files
+.env
+
+# Optional: Ignore OS and editor-specific files
+.DS_Store
+*.swp
